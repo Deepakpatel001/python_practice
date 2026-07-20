@@ -122,18 +122,14 @@
 
 ## 5. Series Calculations
 
-46. **Factorial Fraction Series:** Write a program to calculate the sum of the following series till the $n^{	ext{th}}$ term ($n$ will be provided by the user):
-    $$rac{1}{1!} + rac{2}{2!} + rac{3}{3!} + rac{4}{4!} + \dots + rac{n}{n!}$$
+46. **Factorial Fraction Series:** Write a program to calculate the sum of the following series till the $n^{\text{th}}$ term ($n$ will be provided by the user):
+    $$\frac{1}{1!} + \frac{2}{2!} + \frac{3}{3!} + \frac{4}{4!} + \dots + \frac{n}{n!}$$
 
-47. **Power Series:** Write a Python Program to Find the Sum of the Series till the $n^{	ext{th}}$ term ($n$ will be provided by the user):
-    $$1 + rac{x^2}{2} + rac{x^3}{3} + \dots + rac{x^n}{n}$$
+47. **Power Series:** Write a Python Program to Find the Sum of the Series till the $n^{\text{th}}$ term ($n$ will be provided by the user):
+    $$1 + \frac{x^2}{2} + \frac{x^3}{3} + \dots + \frac{x^n}{n}$$
 
 48. **Natural Logarithm Series:** The natural logarithm can be approximated by the following series:
-    $$\ln(x) = \left(rac{x - 1}{x}
-    ight) + rac{1}{2}\left(rac{x - 1}{x}
-    ight)^2 + rac{1}{3}\left(rac{x - 1}{x}
-    ight)^3 + rac{1}{4}\left(rac{x - 1}{x}
-    ight)^4 + \dots$$
+    $$\ln(x) = \left(\frac{x - 1}{x}\right) + \frac{1}{2}\left(\frac{x - 1}{x}\right)^2 + \frac{1}{3}\left(\frac{x - 1}{x}\right)^3 + \frac{1}{4}\left(\frac{x - 1}{x}\right)^4 + \dots$$
     If $x$ is input through the keyboard, write a program to calculate the sum of the first seven terms of this series.
 
 ---
